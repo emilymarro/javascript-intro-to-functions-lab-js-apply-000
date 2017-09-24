@@ -39,4 +39,3 @@ function sayHiToGrandma(string) {
   }
 }
 *
-
