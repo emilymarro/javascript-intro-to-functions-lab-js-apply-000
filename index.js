@@ -45,4 +45,3 @@ sayHiToGrandma(string)
   //else if (string.toUpperCase() === uppercase) {
     console.log("YES INDEED!");
   }
-
