@@ -19,7 +19,7 @@ describe('logShout(string)', function() {
 })
 
 function longWhisper(string){
-  console.log (string.toUpperCase) 
+  console.log (string.toUpperCase)
 }
 describe('logWhisper(string)', function() {
   it('calls console.log() its one argument in all lowercase', function() {
@@ -34,8 +34,14 @@ describe('logWhisper(string)', function() {
 })
 
 sayHiToGrandma(string) {
-  if (lowercase.toLowerCase() === lowercase) {
-    console.log("I can/'t hear you!")
+  if (string="I love you, Grandma.") {
+    console.log("I love you, too.");
+  }
+  else if (string.toLowerCase() === lowercase) {
+    console.log("I can/'t hear you!");
+  }
+  else if (string.toUpperCase() === uppercase) {
+    console.log("YES INDEED!");
   }
 }
 describe('sayHiToGrandma(string)', function() {
