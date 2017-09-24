@@ -46,4 +46,3 @@ sayHiToGrandma(string) {
     console.log("YES INDEED!");
   }
 }
-
