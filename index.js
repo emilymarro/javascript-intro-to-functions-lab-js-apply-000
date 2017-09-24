@@ -1,5 +1,5 @@
 ''' javascript
-funtion shout(string){
+function shout(string){
   return string.toUpperCase()
 }
 '''
